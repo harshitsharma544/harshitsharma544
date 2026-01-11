@@ -52,9 +52,8 @@
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitsharma544)
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitsharma544&show_icons=true&theme=dark" />
 
 
 
