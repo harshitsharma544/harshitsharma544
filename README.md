@@ -53,7 +53,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitsharma544&show_icons=true&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=harshitsharma544&show_icons=true&theme=dark" />
+
 
 
 ---
