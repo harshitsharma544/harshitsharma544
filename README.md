@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 - 🎓 Completed **B.Tech (2023)** and currently pursuing **M.Tech in AI**
-- 🧠 Strong foundation in **Machine Learning, Deep Learning, NLP**
-- 🔍 Interested and currently learning **Transformers, LLMs, Generative AI, Data Science**
+- 🧠 Strong foundation in **Machine Learning, Deep Learning, NLP, Data Science, Data analyst**
+- 🔍 Interested and currently learning **Transformers, LLMs, Generative AI**
 - 🛠 Hands-on experience with **Python-based ML workflows**
 - 💼 Actively seeking **AI/ML Internships & Entry-Level Roles**
 
